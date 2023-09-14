@@ -1,5 +1,3 @@
-![Logo](https://ultrasound.ai/wp-content/themes/ultrasound/img/UAI-Footer-Logo-F.svg)
-
 # [Project Name] [Backend | Frontend] 
 ## Packages
 
